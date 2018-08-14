@@ -1,0 +1,20 @@
+1-E
+2-d (c)
+3-b ou f ou g (c, d, e)
+4-? (c)
+5-f (d)
+6-e (b)
+7-b (ok)
+8-a (ok)
+9-a,b,c,e (b, c)
+10-d (c, d, f)
+11-b (ok)
+12-b (ok)
+13-c (ok)
+14-c,d,e,f (c, d, f)
+15-a,c,e (ok)
+16-g (d, f, g)
+17-a,c,f
+18-b,d
+19-c
+20-a,c
