@@ -14,7 +14,7 @@
 14-c,d,e,f (c, d, f)
 15-a,c,e (ok)
 16-g (d, f, g)
-17-a,c,f
-18-b,d
-19-c
-20-a,c
+17-a,c,f (ok)
+18-b,d (ok)
+19-c (ok)
+20-a,c (ok)
