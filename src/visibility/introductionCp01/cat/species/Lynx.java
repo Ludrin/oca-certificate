@@ -1,0 +1,15 @@
+package visibility.introductionCp01.cat.species;
+
+import visibility.introductionCp01.cat.BigCat;
+
+public class Lynx extends BigCat {
+
+	public static void main(String[] args) {
+		Lynx cat = new Lynx();
+		System.out.println(cat.name);
+		/*System.out.println(cat.hasFur);
+		System.out.println(cat.hasPaws);
+		System.out.println(cat.id);*/
+	}
+
+}
